@@ -12,7 +12,8 @@ Según la categoría del sponsor, las áreas de los logos son:
 Para calcular las dimensiones $a$ y $l$ del logo, manteniendo la proporción $r = a / l$ dada por el sponsor, hay que hacer:
 
 $$ y = \sqrt{\frac{S}{r}} $$
-
-$$ x = y r $$
+```math
+  x = y r
+```
 
 donde $S$ es el área del logo de la categoría correspondiente.
