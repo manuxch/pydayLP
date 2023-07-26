@@ -10,8 +10,8 @@ Según la categoría del sponsor, las áreas de los logos son:
 - Bronce: 40.000 px2
 
 Para calcular las dimensiones $a$ y $l$ del logo, manteniendo la proporción $r = a / l$ dada por el sponsor, hay que hacer:
-\begin{align}
+$$\begin{align}
 y &= sqrt{\frac{S}{r}} \\
 x &= y r
-\end{equation}
+\end{equation}$$
 donde $S es el área del logo de la categoría correspondiente.
