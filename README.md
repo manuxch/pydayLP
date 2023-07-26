@@ -9,7 +9,7 @@ Según la categoría del sponsor, las áreas de los logos son:
 - Plata:  50.000 px2
 - Bronce: 40.000 px2
 
-Para calcular las dimensiones $x$ y $y$ del logo, a partir de las originales $a$ y $l$, manteniendo la proporción $r = a / l$ dada por el sponsor, hay que hacer:
+Para calcular las dimensiones $x$ y $y$ del logo, a partir de las dimensiones originales $a$ y $l$, manteniendo la proporción $r = a / l$ dada por el sponsor, hay que hacer:
 
 $$ y = \sqrt{\frac{S}{r}} $$
 ```math
