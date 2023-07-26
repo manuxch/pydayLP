@@ -13,6 +13,6 @@ Para calcular las dimensiones $a$ y $l$ del logo, manteniendo la proporción $r 
 
 $$ y = \sqrt{\frac{S}{r}} $$
 
-$ x = y r $
+$$ x = y r $$
 
 donde $S$ es el área del logo de la categoría correspondiente.
