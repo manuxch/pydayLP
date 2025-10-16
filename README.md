@@ -2,6 +2,8 @@
 Repo de archivos del PyDay La Plata
 - 2022
 - 2023
+- 2024
+- 2025
 
 # Logos
 Según la categoría del sponsor, las áreas de los logos son:
